@@ -1,3 +1,7 @@
 #mountain {
     max-width: 50px;
 }
+
+img {
+    max-width: 100%
+}
